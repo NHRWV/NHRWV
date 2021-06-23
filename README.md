@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 BOJ : [nhk9503](https://www.acmicpc.net/user/nhk9503)
