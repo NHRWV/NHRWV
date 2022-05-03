@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=167&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
 </p>
 
 <!-- 주석
@@ -8,7 +8,7 @@
 
 <p align="center">
   I’m currently learning Machine Learning, Deep Learning and Natural Language Processing at Naver Boostcamp.<br/>
-  I'm interested in Artificial Intelligence, Natural Language Processing and History.<br/>
+  I'm interested in <b>Artificial Intelligence</b>, <b>Natural Language Processing</b> and <b>History</b>.<br/>
   I majored in e-Business, Business Administration.<br/>
   
 </p>
@@ -43,7 +43,7 @@ Codeforces : [NHRWV](https://codeforces.com/profile/NHRWV)
 
 <h3 align="center">Algorithm</h3>  
 <p align="center">  
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhk9503"> <br/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhk9503"> &nbsp
   <img src="http://mazandi.herokuapp.com/api?handle=nhk9503">
   
 </p>
