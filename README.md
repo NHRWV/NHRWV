@@ -7,9 +7,8 @@
 -->
 
 <p align="center">
-  I’m Deep Learning and Natural Language Processing at Naver Boostcamp ai tech.<br/>
   I'm interested in <b>Artificial Intelligence</b>, <b>Natural Language Processing</b> and <b>History</b>.<br/>
-  I majored in e-Business, Business Administration.<br/>
+  I majored in e-Business and Business Administration.<br/>
   
 </p>
 
