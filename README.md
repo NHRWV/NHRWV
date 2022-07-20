@@ -4,6 +4,8 @@
 
 <!-- 주석
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
+<a href="https://mature-deal-e14.notion.site/a6a7436aea5a434ca060395727202fcd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-badge&logo=notion&logoColor=white"/></a>
 -->
 
 <p align="center">
@@ -25,7 +27,7 @@
 <a href="mailto:nhk221gu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 <a href="https://www.instagram.com/bcnhk/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 <a href="https://www.linkedin.com/in/nhrwv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
-
+<a href="https://mature-deal-e14.notion.site/a6a7436aea5a434ca060395727202fcd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </p>
 
 
