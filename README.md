@@ -7,13 +7,13 @@
 
 <a href="https://mature-deal-e14.notion.site/a6a7436aea5a434ca060395727202fcd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-badge&logo=notion&logoColor=white"/></a>
 -->
-
+<!-- 주석
 <p align="center">
   I'm interested in <b>Artificial Intelligence</b>, <b>Natural Language Processing</b> and <b>History</b>.<br/>
   I majored in e-Business and Business Administration.<br/>
   
 </p>
-
+-->
 
 <h3 align="center"><b>Skills</b></h3>
 <p align="center">
