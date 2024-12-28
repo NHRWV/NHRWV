@@ -28,7 +28,7 @@
 <a href="mailto:nhk221gu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 <a href="https://www.instagram.com/bcnhk/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 <a href="https://www.linkedin.com/in/nhrwv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
-<a href="https://mature-deal-e14.notion.site/a6a7436aea5a434ca060395727202fcd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
 </p>
 
 
@@ -38,6 +38,8 @@
 BOJ : [nhk9503](https://www.acmicpc.net/user/nhk9503) <br/>
 
 AtCoder : [NHRWV](https://atcoder.jp/users/NHRWV)
+
+<a href="https://mature-deal-e14.notion.site/a6a7436aea5a434ca060395727202fcd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 Codeforces : [NHRWV](https://codeforces.com/profile/NHRWV) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nhk9503)](https://solved.ac/nhk9503/)
